@@ -1,0 +1,146 @@
+----------------------------------------------------------------
+
+Observation No.  1
+Value of N is  10
+Time taken to sort asc :  261 nanosec
+Time taken to sort dsc :  336 nanosec
+Time taken to sort rand :  263 nanosec
+
+
+Observation No.  2
+Value of N is  10
+Time taken to sort asc :  184 nanosec
+Time taken to sort dsc :  318 nanosec
+Time taken to sort rand :  290 nanosec
+
+
+Observation No.  3
+Value of N is  10
+Time taken to sort asc :  147 nanosec
+Time taken to sort dsc :  230 nanosec
+Time taken to sort rand :  298 nanosec
+
+
+Observation No.  4
+Value of N is  10
+Time taken to sort asc :  136 nanosec
+Time taken to sort dsc :  273 nanosec
+Time taken to sort rand :  253 nanosec
+
+----------------------------------------------------------------
+
+Observation No.  1
+Value of N is  100
+Time taken to sort asc :  342 nanosec
+Time taken to sort dsc :  7512 nanosec
+Time taken to sort rand :  4866 nanosec
+
+
+Observation No.  2
+Value of N is  100
+Time taken to sort asc :  363 nanosec
+Time taken to sort dsc :  7365 nanosec
+Time taken to sort rand :  4951 nanosec
+
+
+Observation No.  3
+Value of N is  100
+Time taken to sort asc :  321 nanosec
+Time taken to sort dsc :  7383 nanosec
+Time taken to sort rand :  4303 nanosec
+
+
+Observation No.  4
+Value of N is  100
+Time taken to sort asc :  306 nanosec
+Time taken to sort dsc :  7235 nanosec
+Time taken to sort rand :  5064 nanosec
+
+----------------------------------------------------------------
+
+Observation No.  1
+Value of N is  1000
+Time taken to sort asc :  2111 nanosec
+Time taken to sort dsc :  560020 nanosec
+Time taken to sort rand :  284851 nanosec
+
+
+Observation No.  2
+Value of N is  1000
+Time taken to sort asc :  2111 nanosec
+Time taken to sort dsc :  588027 nanosec
+Time taken to sort rand :  278081 nanosec
+
+
+Observation No.  3
+Value of N is  1000
+Time taken to sort asc :  2152 nanosec
+Time taken to sort dsc :  596282 nanosec
+Time taken to sort rand :  614112 nanosec
+
+
+Observation No.  4
+Value of N is  1000
+Time taken to sort asc :  2210 nanosec
+Time taken to sort dsc :  837502 nanosec
+Time taken to sort rand :  356231 nanosec
+
+----------------------------------------------------------------
+
+Observation No.  1
+Value of N is  10000
+Time taken to sort asc :  20780 nanosec
+Time taken to sort dsc :  58185594 nanosec
+Time taken to sort rand :  28894561 nanosec
+
+
+Observation No.  2
+Value of N is  10000
+Time taken to sort asc :  32830 nanosec
+Time taken to sort dsc :  56243625 nanosec
+Time taken to sort rand :  29596490 nanosec
+
+
+Observation No.  3
+Value of N is  10000
+Time taken to sort asc :  46595 nanosec
+Time taken to sort dsc :  56014514 nanosec
+Time taken to sort rand :  28207659 nanosec
+
+
+Observation No.  4
+Value of N is  10000
+Time taken to sort asc :  20600 nanosec
+Time taken to sort dsc :  64817754 nanosec
+Time taken to sort rand :  27673270 nanosec
+
+----------------------------------------------------------------
+
+Observation No.  1
+Value of N is  100000
+Time taken to sort asc :  205902 nanosec
+Time taken to sort dsc :  6364043074 nanosec
+Time taken to sort rand :  3128703656 nanosec
+
+
+Observation No.  2
+Value of N is  100000
+Time taken to sort asc :  204071 nanosec
+Time taken to sort dsc :  6389414140 nanosec
+Time taken to sort rand :  3126892204 nanosec
+
+
+Observation No.  3
+Value of N is  100000
+Time taken to sort asc :  365852 nanosec
+Time taken to sort dsc :  6867712084 nanosec
+Time taken to sort rand :  3232665359 nanosec
+
+
+Observation No.  4
+Value of N is  100000
+Time taken to sort asc :  209979 nanosec
+Time taken to sort dsc :  6562894559 nanosec
+Time taken to sort rand :  3169796858 nanosec
+
+39236546581
