@@ -38,7 +38,9 @@ algorithm is recorded in nanoseconds.
 
 Algorithm Implementation Language - GO
 
-Compiler Version - go1.10.4 Linux/amd64Operating System - Ubuntu 19.09
+Compiler Version - go1.10.4 Linux/amd64
+
+Operating System - Ubuntu 19.09
 
 OS Type - 64-bit
 
